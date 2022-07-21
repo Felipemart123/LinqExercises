@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLinqEx", "TheLinqEx\TheLinqEx.csproj", "{0D6FA460-7958-4975-AA99-70F83BBA769A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D6FA460-7958-4975-AA99-70F83BBA769A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6FA460-7958-4975-AA99-70F83BBA769A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6FA460-7958-4975-AA99-70F83BBA769A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6FA460-7958-4975-AA99-70F83BBA769A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6240400C-E953-4B90-A208-C75E950BC70C}
+	EndGlobalSection
+EndGlobal

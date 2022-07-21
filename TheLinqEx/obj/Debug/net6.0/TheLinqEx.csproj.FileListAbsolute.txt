@@ -1,0 +1,15 @@
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/bin/Debug/net6.0/TheLinqEx
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/bin/Debug/net6.0/TheLinqEx.deps.json
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/bin/Debug/net6.0/TheLinqEx.runtimeconfig.json
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/bin/Debug/net6.0/TheLinqEx.dll
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/bin/Debug/net6.0/TheLinqEx.pdb
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.csproj.AssemblyReference.cache
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.AssemblyInfoInputs.cache
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.AssemblyInfo.cs
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.csproj.CoreCompileInputs.cache
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.dll
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/refint/TheLinqEx.dll
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.pdb
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/TheLinqEx.genruntimeconfig.cache
+/Users/guillermomartinez/Projects/TheLinqEx/TheLinqEx/obj/Debug/net6.0/ref/TheLinqEx.dll
